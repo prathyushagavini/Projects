@@ -1,0 +1,36 @@
+body{
+    background: url('images/coffee.jpg') no-repeat center center fixed;
+    background-size: cover;
+    font-size: 20px;
+    font-family: 'Baskervville', serif;
+    font-weight:bold;
+}
+.con{
+    height: 100%;
+    margin-top: 5%;
+}
+p{
+    font-size: 50px;
+    font-family: 'Baskervville', serif;
+}
+#cap{
+    margin-top:2% ;
+}
+.im{
+    height: 200px;
+    width: 300px;
+}
+.rowHeight{
+    height: 400px;
+}
+.footer{
+   position:fixed;
+   bottom: 0;
+}
+.imgcontainer{
+    padding: 15px;
+    border: black;
+}
+#cap1{
+    border-radius: 10%;
+}
